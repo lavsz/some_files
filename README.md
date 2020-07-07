@@ -11,7 +11,7 @@ Some files to share.
 
 **Student**- just some documentation of my first round cleaning up the data sets provided in the project repo. There are also a few helpful functions I defined in here as well.
 
-###Ideas
+### Ideas
 **Basic** - Budget/Revenue/Net Earnings analysis
 Comparing the cost of making a movie to how much the movie earns and determining the profit margin. Perhaps we can use genre as a parameter in order to make a recommendations about which movies have the best profit margins.
 For example, I used to love this show Borgia, which was like a period drama (on Showtime, I think) and it cost a fortune to recreate all of that historical splendor. So as a result the last season got cancelled, because even though it had a cult following, it didn't draw in a large enough audience to justify the cost. 
@@ -32,7 +32,7 @@ Social media can be an inexpensive way and effective way to promote movies. Mayb
 One thing that has been effecting the movie industry lately is the desire to break into foriegn markets. For example, if an American movie is released in China, the ability to make more money increases because the population is larger -- capturing an audience that makes up on 2% of the Chinese market 288 MILLION people, which is more than 75% of the entire American population (and that is just one country!). So some kind of analysis regarding foreign and domestic profits might be kind of cool. 
 
 
-###Datasets
+### Datasets
 
 https://www.kaggle.com/karrrimba/movie-metadatacsv - I really like this dataset! It has 28 columns of interesting info, including social media info! 
 
@@ -62,7 +62,7 @@ https://lionbridge.ai/datasets/movie-datasets-machine-learning/ - a few datasets
 
 https://grouplens.org/datasets/movielens/ - contains tags, which might correspond to keywords
 
-###A few helpful links:
+### a few helpful links:
 
 https://imdbpy.github.io/ - API interface with code to create IMBD database from dataset.
 (This might be a way to help us stand out -- creating a database from the IMBD datasets)
@@ -93,12 +93,12 @@ https://rawgraphs.io/
 https://www.datawrapper.de/
 
 
-#### Example Projects
+#### example Projects
 http://rstudio-pubs-static.s3.amazonaws.com/342210_7c8d57cfdd784cf58dc077d3eb7a2ca3.html
 
 http://ibomalkoc.com/movies-dataset/
    
-#### Super-technical papers on this subject**
+#### super-technical papers on this subject
 
 http://vlado.fmf.uni-lj.si/vlado/papers/IMDBvis.pdf - a super technical paper with IMDb visualization weirdness, for anyone who is interested
 
