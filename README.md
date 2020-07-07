@@ -96,8 +96,10 @@ https://www.datawrapper.de/
 #### example Projects
 http://rstudio-pubs-static.s3.amazonaws.com/342210_7c8d57cfdd784cf58dc077d3eb7a2ca3.html
 
-http://ibomalkoc.com/movies-dataset/
-   
+http://ibomalkoc.com/movies-dataset/    
+
+https://praxitelisk.github.io/DAND-P1-Investigate-a-Dataset/Investigate_a_Dataset.html      
+
 #### super-technical papers on this subject
 
 http://vlado.fmf.uni-lj.si/vlado/papers/IMDBvis.pdf - a super technical paper with IMDb visualization weirdness, for anyone who is interested
