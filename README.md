@@ -62,6 +62,8 @@ https://lionbridge.ai/datasets/movie-datasets-machine-learning/ - a few datasets
 
 https://grouplens.org/datasets/movielens/ - contains tags, which might correspond to keywords
 
+https://www.lafabbricadellarealta.com/open-data-entertainment/
+
 ### a few helpful links:
 
 https://imdbpy.github.io/ - API interface with code to create IMBD database from dataset.
@@ -71,6 +73,9 @@ http://www.wandora.org/wandora/wiki/index.php?title=IMDB_extractor - IMDB extrac
 (This seems to set up a SQL style db)
 
 https://github.com/nandhp/python-imdb
+
+https://movio.co/blog/category/infographics/ - you have to pay to use the service, but there are some helpful articles for free
+
 
 #### links for awards info
 https://blog.silk.co/post/78199230161/how-we-made-the-oscar-database - how to make an Oscars database
@@ -82,6 +87,15 @@ https://hdsr.mitpress.mit.edu/pub/6lpet0sx/release/2 - an interesting read that 
 #### links for keyword info
 
 https://towardsdatascience.com/how-to-create-simple-keyword-based-movie-recommender-models-from-scratch-afde718636c9 - really helpful for keyword analysis!
+
+#### links for social media info
+https://letterboxd.com/api-beta/
+
+https://towardsdatascience.com/impact-of-social-media-on-box-office-analysis-of-twitter-activities-on-best-picture-nominees-7961c5c8ba40
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library
+
+https://github.com/tweepy
 
 
 #### some visualization stuff
